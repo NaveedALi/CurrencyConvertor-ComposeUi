@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="error_request_timeout">Time Out</string>
+    <string name="error_too_many_requests">Too many requests</string>
+    <string name="error_no_internet">No internet available</string>
+    <string name="error_unknown">Uknown error occurred</string>
+    <string name="error_serialization">Issue in data parsing</string>
+    <string name="currency_conversion">Currency Conversion</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="select_currency">Select Currency</string>
+</resources>
